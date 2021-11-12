@@ -1,1 +1,1 @@
-# Credit-Prediction-model
+# Credit-Scoring-model
