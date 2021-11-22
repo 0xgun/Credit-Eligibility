@@ -1,1 +1,1 @@
-# Credit-Scoring-model
+# Credit-Eligibility
